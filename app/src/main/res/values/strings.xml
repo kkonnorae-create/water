@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">오늘건강</string>
+    <string name="med_section_title">오늘 드실 약</string>
+    <string name="med_morning">아침 약</string>
+    <string name="med_lunch">점심 약</string>
+    <string name="med_dinner">저녁 약</string>
+    <string name="med_status_taken">복용 완료</string>
+    <string name="med_status_pending">눌러서 체크</string>
+    <string name="med_all_done_celebration">오늘도 건강 챙기기 성공!</string>
+    <string name="water_section_title">오늘 마신 물</string>
+    <string name="water_add_button">물 한 잔 마셨어요 (+1컵)</string>
+    <string name="water_undo_button">한 잔 취소 (-1)</string>
+    <string name="water_goal_hint">하루 목표 8잔</string>
+    <string name="water_goal_done">목표 달성! 참 잘하셨어요</string>
+</resources>
